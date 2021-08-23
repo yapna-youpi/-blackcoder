@@ -1,0 +1,9 @@
+*{
+    margin: 0;padding: 0;
+}
+.header-top{
+    position: absolute;display: flex;justify-content: space-between;
+}
+.Or{
+    color: #ffd32a;
+}

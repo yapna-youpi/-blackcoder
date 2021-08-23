@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.about_header{
+    width: 100%;
+    height: 450px;
+    background: url("../assets/image/enterprise.jpg");
+    position: relative;
+}
+.about_body{
+    width: 70%;
+    margin-left: 15%;margin-right:15%;
+    content: "bonjour monsieur will bienvenue";
+    position: absolute;
+    top: 435px;
+    background: #eee;
+    box-shadow: 5px 3px 3px rgba(22, 22, 22, 0.7);
+}
