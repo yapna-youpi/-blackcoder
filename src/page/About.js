@@ -7,12 +7,14 @@ export class About extends Component {
         return (
             <Fragment>
                 <div className="about_header">
-                    <main className="about_body">
-                        kpdjsfhu
-                        <p>loremp fzayudgiykffazjkl kjezfksqln sqjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjk qs</p>
+                    <main className="about_body card card-body">
+                        
+                        <p>loremp</p>
                         <h2>lqbcuic jcbqc ksncmkl,</h2>
                     </main>
                 </div>
+
+                <div>iyoiy  Loremp ihgyg</div>
                 <Footer />
             </Fragment>
         )
